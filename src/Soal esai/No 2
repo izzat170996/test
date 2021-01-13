@@ -1,0 +1,27 @@
+Struktur Aturan Dasar Program Golang
+Strukur Aturan Golang pada Dasarnya di bagi menjadi 4 yaitu
+
+1. Dekrakasi Package
+2. Import Library
+3. Bagian Fungsi utama / Method Main.
+4. Ekspresi.
+Dari 4 Struktur dasar golang yang paling penting dari point 1 sampai dengan 3.
+
+1. Deklarasi Package
+Package adalah suatu cara untuk mengorganisasikan file yang ada atau bisa di bilang nama 
+folder yang tersedia. Di Golang satu file dapat di jalankan ketika mempunya package main.
+
+2. Bagian Import
+Import digunakan untuk memanggil library yang ingin kita gunakan, contoh kode dia atas kita 
+memanggil library dengan nama fmt.
+Library merupakan Sekumpulan fungsi yang di proses sedemikian rupa untuk kita gunakan fungsinya. 
+Dengan menggunakan library kita lebih di mudahkan untuk membuat suatu program.
+
+3. Method Main
+Di dalam bahasa Golang harus ada satu nama method utama, dimana method tersebut di eskteksusi 
+pertama kali saat program tersebut di jalankan, yaitu method main()
+Tanpa method main() maka program tidak dapat di jalankan.
+
+4. Ekspresi
+Bahasa lain eksrepsi yaitu statement, eksrepsi merupakan sebuah kode bagian terkecil. Kode 
+tersebut bisa di artikan suatu kegiatan yang dilakukan.
